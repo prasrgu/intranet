@@ -9,7 +9,7 @@ echo "Hello World";
 ?>
 
 
- <a href="index1.html">Click me</a>
+ <a href="../index1.html">Click me</a>
 </p>
 </body>
 </html>
